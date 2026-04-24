@@ -16,5 +16,7 @@ Wahoo was made to be a revival of Yahoo(R) of 2010 (or 2009) or smth idk
 - Nintendo Wii
 
 ## Note (Please read)
-Please for your safety, don't fork this project.
-Due to things we can't put here.
+Due to copyright law we dont recommend forking this project
+
+### Self Hosting
+Sadly all of the files are on our servers you cannot self host :/
